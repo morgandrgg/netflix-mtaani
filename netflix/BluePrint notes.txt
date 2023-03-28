@@ -1,0 +1,7 @@
+Font - Popins
+icons - Fontawesome/ iconic
+css - Bootstrap/Bulma
+Hosting -netlify
+
+
+local-github-online
