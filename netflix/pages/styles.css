@@ -189,6 +189,29 @@ p {
     text-decoration: none;
 }
 
+/*----------------------------------- moreinfo page section--------------------------------  */
+
+.alien {
+    display: grid!important;
+    background-image: url(../assets/Alien.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.alien .fay-txt{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.alien .fay-txt img{
+    width: 200px;
+    height: 200px;
+    
+}
+
 /*---------------------------- This is the small scereen section -------------------- */
 
 
